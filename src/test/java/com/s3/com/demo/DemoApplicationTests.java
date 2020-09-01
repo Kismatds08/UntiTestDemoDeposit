@@ -8,6 +8,11 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int x = 20;
+		int y = 40;
 	}
 
+	private int addTwoNumbers(int x,int y){
+		return x+y;
+	}
 }
