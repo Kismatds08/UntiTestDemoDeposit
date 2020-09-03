@@ -1,4 +1,4 @@
-package com.s3.com.demo;
+/*package com.s3.com.demo;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -20,9 +20,11 @@ class DemoApplicationTests {
 		}else{
 			System.out.println("Test failed");
 		}*/
-	}
+/*
+}
 
 	private int addTwoNumbers(int x,int y){
 		return x+y;
 	}
 }
+*/
